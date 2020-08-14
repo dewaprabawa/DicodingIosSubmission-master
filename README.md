@@ -1,5 +1,9 @@
 # DicodingIosSubmission
 
-I JUST START TO LEARN MOBILE DEVELOPMENT IN SWIFT, HOPEFULLY I CAN HAVE BETTER KNOWLEDGE ABOUT IOS DEVELOPMENT SOON BY HARDWORKING AND DEDICATING
+** Hello, this is just pretty simple UI that I made for Dicoding submission. I just start learning IOS DEVELOPMENT and I love this !
 
-Well, this is my really simple UI APPLICATION contains what I have learned about IOS such as, SEGUE, NAVIGATION CONTROLLER, AND INTERFACE BUILDER
+# Preview 
+
+
+
+
