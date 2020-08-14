@@ -1,0 +1,6 @@
+framework module Pods_SubmissionAppDicodingTests {
+  umbrella header "Pods-SubmissionAppDicodingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

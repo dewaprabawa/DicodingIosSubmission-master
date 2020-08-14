@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="CarouselSliderCell" customModule="SubmissionAppDicoding" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="265" height="257"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="265" height="257"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hawai0" translatesAutoresizingMaskIntoConstraints="NO" id="FUF-ah-beV">
+                        <rect key="frame" x="0.0" y="0.0" width="265" height="257"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="FUF-ah-beV" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="HzZ-SG-4ct"/>
+                <constraint firstAttribute="trailing" secondItem="FUF-ah-beV" secondAttribute="trailing" id="P7G-Gr-PGh"/>
+                <constraint firstItem="FUF-ah-beV" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="XHx-A2-mVA"/>
+                <constraint firstAttribute="bottom" secondItem="FUF-ah-beV" secondAttribute="bottom" id="fNV-yv-jzm"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="265" height="257"/>
+            <connections>
+                <outlet property="ImageSlider" destination="FUF-ah-beV" id="y43-2A-fbT"/>
+            </connections>
+            <point key="canvasLocation" x="13.768115942028986" y="1.6741071428571428"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="hawai0" width="2560" height="1714"/>
+    </resources>
+</document>

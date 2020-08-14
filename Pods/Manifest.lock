@@ -1,0 +1,84 @@
+PODS:
+  - MaterialComponents/AnimationTiming (109.6.0)
+  - MaterialComponents/Availability (109.6.0)
+  - MaterialComponents/BottomNavigation (109.6.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - "MaterialComponents/BottomNavigation+Theming (109.6.0)":
+    - MaterialComponents/BottomNavigation
+    - MaterialComponents/schemes/Color
+    - MaterialComponents/schemes/Container
+    - MaterialComponents/schemes/Typography
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Elevation (109.6.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (109.6.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Palettes (109.6.0)
+  - MaterialComponents/private/Application (109.6.0)
+  - MaterialComponents/private/Color (109.6.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/Math (109.6.0)
+  - MaterialComponents/Ripple (109.6.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/schemes/Color (109.6.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+  - MaterialComponents/schemes/Container (109.6.0):
+    - MaterialComponents/schemes/Color
+    - MaterialComponents/schemes/Shape
+    - MaterialComponents/schemes/Typography
+  - MaterialComponents/schemes/Shape (109.6.0):
+    - MaterialComponents/ShapeLibrary
+    - MaterialComponents/Shapes
+  - MaterialComponents/schemes/Typography (109.6.0):
+    - "MaterialComponents/schemes/Typography+BasicFontScheme"
+    - "MaterialComponents/schemes/Typography+Scheming"
+    - MaterialComponents/Typography
+  - "MaterialComponents/schemes/Typography+BasicFontScheme (109.6.0)"
+  - "MaterialComponents/schemes/Typography+Scheming (109.6.0)"
+  - MaterialComponents/ShadowElevations (109.6.0)
+  - MaterialComponents/ShadowLayer (109.6.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/ShapeLibrary (109.6.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/Shapes
+  - MaterialComponents/Shapes (109.6.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Typography (109.6.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MDFInternationalization (2.0.0)
+
+DEPENDENCIES:
+  - "MaterialComponents/BottomNavigation+Theming"
+
+SPEC REPOS:
+  trunk:
+    - MaterialComponents
+    - MDFInternationalization
+
+SPEC CHECKSUMS:
+  MaterialComponents: 7c5a7d77fbe08aca9383fc97aeb7423b1fbce6b4
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+
+PODFILE CHECKSUM: a0a0ed56021245af2a44eb83fc6ddd66c19b5279
+
+COCOAPODS: 1.9.1

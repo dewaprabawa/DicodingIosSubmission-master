@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20GorgeousSidetownsinItaly__HERO_shutterstock_688078159.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
