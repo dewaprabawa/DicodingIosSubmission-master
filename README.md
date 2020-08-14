@@ -4,7 +4,7 @@
 
 # Preview 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/Screen Shot 2020-08-12 at 21.02.45.png)
 
 
 
