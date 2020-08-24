@@ -1,6 +1,6 @@
 # Dicoding Submission Kelas Pemula IOS
 
-* Hello, this is just pretty simple UI that I made for Dicoding submission. I just start learning IOS DEVELOPMENT and I love this !
+* This demo application show simple table-view with static data that was release in iOS 13. As a bonus, I've decided to make prettier UI.
 
 # Preview 
 
