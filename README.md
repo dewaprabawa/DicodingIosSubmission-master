@@ -4,7 +4,7 @@
 
 # Preview 
 
-![Image of Preview](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.02.45.png | width=100)
+![Image of Preview](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.02.45.png =250x250)
 
 
-![Image of Preview](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.03.05.png | width=100)
+![Image of Preview](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.03.05.png =250x250)
