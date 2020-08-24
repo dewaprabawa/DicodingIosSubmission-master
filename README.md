@@ -21,7 +21,7 @@
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 # Preview 
 
-![](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.02.45.png)
+![](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/ss01.png)
 
 
-![](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/Screen%20Shot%202020-08-12%20at%2021.03.05.png)
+![](https://github.com/dewaprabawa/DicodingIosSubmission-master/blob/master/ss02.png)
